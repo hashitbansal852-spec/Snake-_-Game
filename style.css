@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: #121212;
+  color: #ededed;
+}
+#container {
+  height: 100vh;
+  width: 100vw;
+}
+#game {
+  height: 100vh;
+  width: 100vw;
+}
+#infos {
+  position: relative;
+  top:100px;
+  left:200px;
+  width:1140px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.inf {
+  padding: 25px;
+}
+#board {
+  position: relative;
+  top: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#gameboard {
+  height: 60vh;
+  width: 60vh;
+  background-color: #444;
+  display: grid;
+  grid-template-columns: repeat(22, 1fr);
+  grid-template-rows: repeat(22, 1fr);
+  gap: 1px;
+}
+.snake {
+  background-color: #ededed;
+}
+.food {
+  background-color: rgb(172, 7, 7);
+}
+.announce{
+  width: 100vw;
+  display :flex;
+  justify-content: center;
+}
+.hide{
+  display: none;
+}
