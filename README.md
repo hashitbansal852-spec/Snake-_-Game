@@ -1,6 +1,6 @@
 # 🐍 Classic Snake Game
 
-A simple and fun classic Snake game built using vanilla HTML, CSS, and JavaScript. 
+A simple and fun classic Snake game built using HTML, CSS, and JavaScript. 
 
 🚀 **[Play the Live Game Here!](YOUR_GITHUB_PAGES_LINK_HERE)**
 
