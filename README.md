@@ -2,7 +2,7 @@
 
 A simple and fun classic Snake game built using HTML, CSS, and JavaScript. 
 
-🚀 **[Play the Live Game Here!](YOUR_GITHUB_PAGES_LINK_HERE)**
+🚀 **[Play the Live Game Here!](https://hashitbansal852-spec.github.io/Snake-_-Game/)**
 
 ## 🎮 How to Play
 * Use the **Arrow Keys** (Up, Down, Left, Right) to steer the snake.
